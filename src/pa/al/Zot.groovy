@@ -1,5 +1,5 @@
 // src/org/foo/Zot.groovy
-package pa.fo
+package pa.al
 
 def checkOutFrom(urli) {
   git url: urli
