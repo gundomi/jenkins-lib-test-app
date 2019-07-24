@@ -2,7 +2,7 @@
 package pa.al
 
 def checkOutFrom(urli) {
-  git url: urli
+  println urli
 }
 
 return this
