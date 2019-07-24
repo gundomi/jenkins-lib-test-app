@@ -1,3 +1,3 @@
 def info(message){
-    println message
+    echo "INFO: ${message}"
 }
